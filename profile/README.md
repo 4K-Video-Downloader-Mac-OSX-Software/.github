@@ -19,7 +19,7 @@
 <a href="#"><img src="https://img.shields.io/badge/license-Personal%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnxt12q4keBe7LGI1uaBZ9mUZ2-g7DT8tEhQ&s" width="824" alt="Screenshot"/>
+<img src="https://external-preview.redd.it/TNOeaf7hr6-cNl9P6Um4w5I4C_BlKirAzAnUcZYoXkM.jpg?auto=webp&s=925e7bf509125f9f4b9201432e84bcc369766c99" width="824" alt="Screenshot"/>
 
 </div>
 
